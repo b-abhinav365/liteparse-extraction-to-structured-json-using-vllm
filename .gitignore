@@ -78,3 +78,69 @@ docs/src/content/docs/liteparse/.api-tmp/
 packages/rust/target/
 packages/rust/vendor/
 target/
+
+.env
+.env.*
+alarm_extractor/.env
+
+__pycache__/
+*.py[cod]
+*$py.class
+alarm_extractor/__pycache__/
+alarm_extractor/**/*.pyc
+
+
+alarm_extractor/processed_files.json
+
+
+alarm_extractor/output/*
+!alarm_extractor/output/.gitkeep
+
+# --------------------------------------------------
+# Generated Input JSON Files
+# (Uncomment if these are generated every run)
+# --------------------------------------------------
+# alarm_extractor/input/*.json
+# !alarm_extractor/input/sample.json
+
+# --------------------------------------------------
+# Local Sample Documents
+# --------------------------------------------------
+
+*.pdf
+
+
+*.doc
+*.docx
+
+
+*.xls
+*.xlsx
+
+
+*.csv
+
+
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.gif
+*.webp
+
+
+output.md
+
+
+*.log
+
+tmp/
+temp/
+*.tmp
+
+
+models/
+weights/
+checkpoints/

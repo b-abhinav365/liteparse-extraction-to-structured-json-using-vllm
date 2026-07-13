@@ -1,0 +1,712 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.0,
+      "height": 842.0,
+      "text": "                                                                       GREENKO INTEGRATED MANAGEMENT SYSTEM\n\n                                                                       WORK INSTRUCTION FOR HU PUMP FAILURE\n\n    1.   PURPOSE\n         This document describes the standard operating procedure for HU pump drive failure\n    2.   SCOPE\n\n         This document applies to Gamesa model in G97 & G114.\n\n    3.   RESPONSIBILITY\n\n         Authorised person only\n\n    4.   SPARES, CONSUMABLES, TOOLS & TACKLES.\n         Tools:   1. Multimeter - 1 No,\n                  2. Spanner set - 1 set,\n                  3. Screw driver & Voltage tester - 1 No each,\n                  4. Craft work box (small) - 1 No.\n         Spares & Consumables:\n              1.   KM-280 ADD on block\n              2.   HU pump Contactor.\n              3.   HU pump.\n\n    5.   DOCUMENTS & RECORDS\n        Title                                                         Form No.\n\n                  Work permit\n   Work at height       F-CO-EHS-13-08\n\nElectrical isolation    F-CO-EHS-13-04\n\n     Check list       CL- Wind-SG-EM-208\n\n    6.   Safety Requirements:\n         1.   Basic PPE's - Safety Shoe, Safety Helmet, Hand Gloves, safety harness etc.\n         2.   Read turbine safety manual before carrying out any work in the turbine\n         3.   Always complete safety documentation part - work permit etc.\n         4.   Risk assessments and HIRA to be cross checked for the Job activity.\n         5.   690 V/ 230 V will be available on control panel. Be careful.\n    7.   ERROR CRITERIA\n\n        This alarm is triggered for more than 5 seconds, there is a discrepancy between the pump activation\n        signal and its confirmation signal, and not because of a communication failure with the ED.\n\n    8.   PROCEDURE\n             1.   Check the HU pump Contactor not working properly\n             2.   Check the KM-280 ADD on block feedback missing\n             3.   Check the Signal missing in DI Module.\n             4.   Check the Cable connection.\n             5.   Check the HU Pump for faulty.\n             6.   Replace the failure component.\n\n\n\n    WI-WIND-SG-EM-208    I1. R0/01.07.2019                        Page 1 of 1\n                       INTERNAL",
+      "text_items": [
+        {
+          "text": "GREENKO INTEGRATED MANAGEMENT SYSTEM",
+          "x": 291.36,
+          "y": 10.279968,
+          "width": 276.43762,
+          "height": 13.919983,
+          "font_name": "Calibri-Bold",
+          "font_size": 13.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "WORK INSTRUCTION FOR HU PUMP FAILURE",
+          "x": 345.12,
+          "y": 46.28003,
+          "width": 223.10925,
+          "height": 12.0,
+          "font_name": "Calibri-Bold",
+          "font_size": 12.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "1.",
+          "x": 82.08,
+          "y": 76.52008,
+          "width": 8.476944,
+          "height": 11.039856,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "PURPOSE",
+          "x": 114.96,
+          "y": 76.52008,
+          "width": 43.0801,
+          "height": 11.039856,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "This document describes the standard operating procedure for HU pump drive failure",
+          "x": 112.8,
+          "y": 98.12012,
+          "width": 382.3103,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "2.",
+          "x": 82.08,
+          "y": 119.72009,
+          "width": 8.476944,
+          "height": 11.039856,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "SCOPE",
+          "x": 112.8,
+          "y": 119.72009,
+          "width": 29.6362,
+          "height": 11.039856,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "This document applies to Gamesa model in G97 & G114.",
+          "x": 112.8,
+          "y": 144.20007,
+          "width": 251.91667,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "3.",
+          "x": 82.08,
+          "y": 167.7201,
+          "width": 8.467064,
+          "height": 11.039856,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "RESPONSIBILITY",
+          "x": 114.96,
+          "y": 167.7201,
+          "width": 73.20197,
+          "height": 11.039856,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Authorised person only",
+          "x": 112.8,
+          "y": 191.4801,
+          "width": 104.3835,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "4.",
+          "x": 85.68,
+          "y": 216.9201,
+          "width": 8.467064,
+          "height": 11.039856,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "SPARES, CONSUMABLES, TOOLS & TACKLES.",
+          "x": 114.96,
+          "y": 216.9201,
+          "width": 200.52173,
+          "height": 11.039856,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Tools:",
+          "x": 112.8,
+          "y": 237.32007,
+          "width": 27.43811,
+          "height": 11.039856,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "1. Multimeter - 1 No,",
+          "x": 159.84,
+          "y": 237.32007,
+          "width": 93.973785,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "2. Spanner set - 1 set,",
+          "x": 162.96,
+          "y": 250.76007,
+          "width": 98.52019,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "3. Screw driver & Voltage tester - 1 No each,",
+          "x": 162.96,
+          "y": 264.20007,
+          "width": 200.05794,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "4. Craft work box (small) - 1 No.",
+          "x": 162.96,
+          "y": 277.64008,
+          "width": 143.43584,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Spares & Consumables:",
+          "x": 112.8,
+          "y": 291.08008,
+          "width": 106.999405,
+          "height": 11.039856,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "1.",
+          "x": 132.0,
+          "y": 304.52008,
+          "width": 8.311386,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "KM-280 ADD on block",
+          "x": 150.0,
+          "y": 304.52008,
+          "width": 97.71962,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "2.",
+          "x": 132.0,
+          "y": 317.96008,
+          "width": 8.311386,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "HU pump Contactor.",
+          "x": 150.0,
+          "y": 317.96008,
+          "width": 92.06149,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "3.",
+          "x": 132.0,
+          "y": 331.40005,
+          "width": 8.311386,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "HU pump.",
+          "x": 150.0,
+          "y": 331.40005,
+          "width": 45.49736,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "5.",
+          "x": 82.08,
+          "y": 360.92007,
+          "width": 8.467064,
+          "height": 11.039917,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "DOCUMENTS & RECORDS",
+          "x": 112.8,
+          "y": 360.92007,
+          "width": 115.906815,
+          "height": 11.039917,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Title",
+          "x": 184.32,
+          "y": 381.56006,
+          "width": 20.198975,
+          "height": 11.039917,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Form No.",
+          "x": 403.44,
+          "y": 381.56006,
+          "width": 42.318512,
+          "height": 11.039917,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Work permit",
+          "x": 165.12001,
+          "y": 403.64008,
+          "width": 58.334183,
+          "height": 11.039917,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Work at height",
+          "x": 161.04,
+          "y": 425.48007,
+          "width": 66.83324,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "F-CO-EHS-13-08",
+          "x": 389.04,
+          "y": 425.48007,
+          "width": 71.12601,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Electrical isolation",
+          "x": 153.84,
+          "y": 449.24005,
+          "width": 81.44714,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "F-CO-EHS-13-04",
+          "x": 389.04,
+          "y": 449.24005,
+          "width": 71.12601,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Check list",
+          "x": 173.28001,
+          "y": 474.68005,
+          "width": 42.572372,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "CL- Wind-SG-EM-208",
+          "x": 377.76,
+          "y": 474.68005,
+          "width": 93.69586,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "6.",
+          "x": 81.84,
+          "y": 499.16006,
+          "width": 8.476944,
+          "height": 11.039917,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Safety Requirements:",
+          "x": 115.2,
+          "y": 499.16006,
+          "width": 98.58513,
+          "height": 11.039917,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "1.",
+          "x": 115.2,
+          "y": 519.0801,
+          "width": 8.311386,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Basic PPE's - Safety Shoe, Safety Helmet, Hand Gloves, safety harness etc.",
+          "x": 133.2,
+          "y": 519.0801,
+          "width": 330.0235,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "2.",
+          "x": 115.2,
+          "y": 534.4402,
+          "width": 8.311386,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Read turbine safety manual before carrying out any work in the turbine",
+          "x": 133.2,
+          "y": 534.4402,
+          "width": 318.7583,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "3.",
+          "x": 115.2,
+          "y": 550.04004,
+          "width": 8.311386,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Always complete safety documentation part - work permit etc.",
+          "x": 133.2,
+          "y": 550.04004,
+          "width": 280.23676,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "4.",
+          "x": 115.2,
+          "y": 565.4,
+          "width": 8.311386,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Risk assessments and HIRA to be cross checked for the Job activity.",
+          "x": 133.2,
+          "y": 565.4,
+          "width": 298.52362,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "5.",
+          "x": 115.2,
+          "y": 580.7601,
+          "width": 8.311386,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "690 V/ 230 V will be available on control panel. Be careful.",
+          "x": 133.2,
+          "y": 580.7601,
+          "width": 260.4673,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "7.",
+          "x": 81.84,
+          "y": 600.92004,
+          "width": 8.476944,
+          "height": 11.039917,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "ERROR CRITERIA",
+          "x": 115.2,
+          "y": 600.92004,
+          "width": 75.34329,
+          "height": 11.039917,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "This alarm is triggered for more than 5 seconds, there is a discrepancy between the pump activation",
+          "x": 108.24,
+          "y": 623.9601,
+          "width": 447.1261,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "signal and its confirmation signal, and not because of a communication failure with the ED.",
+          "x": 108.24,
+          "y": 639.0802,
+          "width": 405.02155,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "8.",
+          "x": 81.84,
+          "y": 662.3601,
+          "width": 8.467072,
+          "height": 11.039856,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "PROCEDURE",
+          "x": 115.2,
+          "y": 661.6401,
+          "width": 56.281174,
+          "height": 11.039917,
+          "font_name": "Calibri-Bold",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "1.",
+          "x": 126.00001,
+          "y": 682.0401,
+          "width": 8.311363,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Check the HU pump Contactor not working properly",
+          "x": 144.0,
+          "y": 682.0401,
+          "width": 232.80994,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "2.",
+          "x": 126.00001,
+          "y": 695.4801,
+          "width": 8.311363,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Check the KM-280 ADD on block feedback missing",
+          "x": 144.0,
+          "y": 695.4801,
+          "width": 223.88345,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "3.",
+          "x": 126.00001,
+          "y": 708.92004,
+          "width": 8.311363,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Check the Signal missing in DI Module.",
+          "x": 144.0,
+          "y": 708.92004,
+          "width": 171.76053,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "4.",
+          "x": 126.00001,
+          "y": 722.3601,
+          "width": 8.311363,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Check the Cable connection.",
+          "x": 144.0,
+          "y": 722.3601,
+          "width": 126.62143,
+          "height": 11.039856,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "5.",
+          "x": 126.00001,
+          "y": 735.80005,
+          "width": 8.311363,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Check the HU Pump for faulty.",
+          "x": 144.0,
+          "y": 735.80005,
+          "width": 135.51724,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "6.",
+          "x": 126.00001,
+          "y": 749.24005,
+          "width": 8.311363,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "Replace the failure component.",
+          "x": 144.0,
+          "y": 749.24005,
+          "width": 140.60913,
+          "height": 11.039917,
+          "font_name": "Calibri",
+          "font_size": 11.0399,
+          "confidence": 1.0
+        },
+        {
+          "text": "WI-WIND-SG-EM-208",
+          "x": 57.84,
+          "y": 807.56006,
+          "width": 78.799194,
+          "height": 9.119934,
+          "font_name": "Calibri",
+          "font_size": 9.1199,
+          "confidence": 1.0
+        },
+        {
+          "text": "I1. R0/01.07.2019",
+          "x": 291.12,
+          "y": 807.56006,
+          "width": 65.12537,
+          "height": 9.119934,
+          "font_name": "Calibri",
+          "font_size": 9.1199,
+          "confidence": 1.0
+        },
+        {
+          "text": "Page 1 of 1",
+          "x": 499.68,
+          "y": 807.56006,
+          "width": 40.622803,
+          "height": 9.119934,
+          "font_name": "Calibri",
+          "font_size": 9.1199,
+          "confidence": 1.0
+        },
+        {
+          "text": "INTERNAL",
+          "x": 301.92,
+          "y": 818.6001,
+          "width": 36.709595,
+          "height": 9.119873,
+          "font_name": "Calibri",
+          "font_size": 9.1199,
+          "confidence": 1.0
+        }
+      ]
+    }
+  ]
+}
