@@ -1,0 +1,31 @@
+{
+    "document_type": "excel",
+    "metadata": {
+        "source_file": "liteparse_test_workbook.xlsx",
+        "parser": "OpenPyXL + Pandas",
+        "page_count": 3,
+        "sheet_count": 3,
+        "sheet_names": [
+            "Employee Data",
+            "Sales",
+            "Notes"
+        ]
+    },
+    "pages": [
+        {
+            "page": 1,
+            "text": "# Sheet: Employee Data\n\n|   Employee ID | Name          | Department   |   Salary | Joining Date   |\n|--------------:|:--------------|:-------------|---------:|:---------------|\n|           101 | Alice Johnson | AI           |    85000 | 2025-01-15     |\n|           102 | Bob Smith     | ML           |    92000 | 2024-09-01     |\n|           103 | Charlie Brown | Data Science |    88000 | 2023-07-20     |\n|           104 | Diana Lee     | Software     |    79000 | 2026-03-10     |",
+            "markdown": "# Sheet: Employee Data\n\n|   Employee ID | Name          | Department   |   Salary | Joining Date   |\n|--------------:|:--------------|:-------------|---------:|:---------------|\n|           101 | Alice Johnson | AI           |    85000 | 2025-01-15     |\n|           102 | Bob Smith     | ML           |    92000 | 2024-09-01     |\n|           103 | Charlie Brown | Data Science |    88000 | 2023-07-20     |\n|           104 | Diana Lee     | Software     |    79000 | 2026-03-10     |"
+        },
+        {
+            "page": 2,
+            "text": "# Sheet: Sales\n\n| Month   |   Revenue |   Expenses |   Profit |\n|:--------|----------:|-----------:|---------:|\n| Jan     |    120000 |      80000 |    40000 |\n| Feb     |    135000 |      85000 |    50000 |\n| Mar     |    142500 |      90000 |    52500 |\n| Apr     |    150000 |      94000 |    56000 |",
+            "markdown": "# Sheet: Sales\n\n| Month   |   Revenue |   Expenses |   Profit |\n|:--------|----------:|-----------:|---------:|\n| Jan     |    120000 |      80000 |    40000 |\n| Feb     |    135000 |      85000 |    50000 |\n| Mar     |    142500 |      90000 |    52500 |\n| Apr     |    150000 |      94000 |    56000 |"
+        },
+        {
+            "page": 3,
+            "text": "# Sheet: Notes\n\n| LiteParse Excel Extraction Test                                                                                                        |\n|:---------------------------------------------------------------------------------------------------------------------------------------|\n| This workbook contains multiple sheets with tables and text to test whether LiteParse can extract structured and unstructured content. |",
+            "markdown": "# Sheet: Notes\n\n| LiteParse Excel Extraction Test                                                                                                        |\n|:---------------------------------------------------------------------------------------------------------------------------------------|\n| This workbook contains multiple sheets with tables and text to test whether LiteParse can extract structured and unstructured content. |"
+        }
+    ]
+}
